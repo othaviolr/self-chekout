@@ -11,7 +11,6 @@ Sistema de **self-checkout** para pedidos via delivery, desenvolvido com **TypeS
 
 ## ✨ Funcionalidades
 
-- 🧾 Cadastro e autenticação de usuários
 - 🛍️ Escolha de produtos e criação de pedidos
 - 💳 Self-checkout com resumo e finalização
 - 📦 Tela de status de pedidos
